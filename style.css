@@ -1,0 +1,64 @@
+ body {
+  background-color: black;
+  
+ }
+	
+	
+p {
+  color: #66FF99;
+  font-size: 35px;
+  text-align: none;
+}
+ul {
+  margin: 25px auto;
+  padding: 0 20px;
+  text-align: center;
+  float: none;
+}
+li {
+  width: 80px;
+  color: #66FF99;
+  font-size: 25px;
+  font-weight: 300;
+  text-transform: uppercase;
+  text-align: center;
+}
+#information{
+	display: block;
+	text-align: center;
+	border-bottom: 10px;
+	width: 50%;
+	height: 100;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#problems {
+	text-align: center;
+	font-size: 35px;
+}
+h2 {
+	color: #66FF99;
+}
+#LightingPlan2 {
+	display: block;
+	text-align: center;
+	border-bottom: 5px;
+	width: 50%;
+    height: 100;	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#footer {
+	text-align: center;
+	font-size: 100px;
+	color: #66FF99;
+	background-color: #808080;
+}
+
+	
+	
+
+
+	
